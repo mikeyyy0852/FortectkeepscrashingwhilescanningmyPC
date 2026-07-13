@@ -1,4 +1,4 @@
-project = 'Malwarebytes'
+project = 'Fortect'
 author = 'Your Name'
 release = '1.0'
 
